@@ -1,0 +1,13 @@
+{
+  "name": "Tenora-G13",
+  "version": "1.0.0",
+  "description": "Welcome, Operator.",
+  "main": "bot.js",
+  "author": "Jessica Aquaila",
+  "private": true,
+  "license": "UNLICENSED",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.0.0"
+  }
+}
